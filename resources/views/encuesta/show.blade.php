@@ -27,7 +27,7 @@
                                     </div>
                                     <div>
                                         <form action="">
-                                            <button class="bg-blue-100 hover:bg-blue-200 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded">Eliminar</button>
+                                            <button class="bg-red-100 text-red-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded">Eliminar</button>
                                         </form>
                                     </div>
                                 </div>
